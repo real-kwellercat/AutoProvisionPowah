@@ -10,6 +10,10 @@ Winget ALL the things!!! (make sure you have app installer first before running.
 ```
 irm https://raw.githubusercontent.com/real-kwellercat/AutoProvisionPowah/main/script.ps1 | iex
 ```
+or
+```
+irm http://tinyurl.com/autoprovisionpowah | iex
+```
 
 3. profit 🤑🤑🤑🤑🤑
 
