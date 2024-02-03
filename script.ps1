@@ -1,10 +1,10 @@
-"The Winget Install Bundle! (or CAUTOPROV596)"
-"Version 0.5.96"
-"List Curated by @bakodoesyt and @Central596 on youtube.com"
-"Installs: NVCleanstall, Steam, Discord, Firefox, Malwarebytes, Tor, qBitTorrent, Rclone, VLC, Prism Launcher, Virtualbox, and JDK 17."
-"(Last Update, 2/3/2024)"
-"Them: Imagine not having java 8!!!!!!! i'm so angy bc not java 8 | Us: install it yourself kekw"
-"----------------------"
+Write-Host "The Winget Install Bundle! (or CAUTOPROV596)";
+Write-Host "Version 0.5.96";
+Write-Host "List Curated by @bakodoesyt and @Central596 on youtube.com";
+Write-Host "Installs: NVCleanstall, Steam, Discord, Firefox, Malwarebytes, Tor, qBitTorrent, Rclone, VLC, Prism Launcher, Virtualbox, and JDK 17.";
+Write-Host "(Last Update, 2/3/2024)";
+Write-Host "Them: Imagine not having java 8!!!!!!! i'm so angy bc not java 8 | Us: install it yourself kekw";
+Write-Host "----------------------";
 winget install -e --id TechPowerUp.NVCleanstall
 winget install -e --id Valve.Steam
 winget install -e --id Discord.Discord
